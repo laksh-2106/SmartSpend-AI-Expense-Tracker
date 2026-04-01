@@ -61,13 +61,13 @@ SmartSpend is an intelligent expense tracking web application that helps users m
 
 
 
+
+
+
 ```
 
 ---
 ```
-
----
-
 ## 📸 Highlights
 
 * Modern UI with dark theme 🌙
