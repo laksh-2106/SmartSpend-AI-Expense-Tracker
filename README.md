@@ -59,7 +59,7 @@ SmartSpend is an intelligent expense tracking web application that helps users m
 * **Charts:** Recharts
 * **UI Components:** shadcn/ui
 
----
+
 
 ```
 
